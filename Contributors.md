@@ -4,7 +4,9 @@
 
 (Affliation: Ashpot Microsystems Ltd)[https://ashpotmicrosystems.com]
 
-(R.A.Örge Edgü)
+(R.A.Orge Edgu)
 
-(Anuma Franklin)
+(Anuma Franklin) 
+
+
 ** Tallinn University Internship students **
